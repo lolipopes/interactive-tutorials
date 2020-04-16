@@ -17,7 +17,7 @@ naglowek_kodu:
 
 Najczęściej nagłówek bloku ma następującą budowę
 
-    slowo_koluczowe_bloku nazwa_bloku(argument1, argument2, ...)
+    slowo_kluczowe_bloku nazwa_bloku(argument1, argument2, ...)
 
 Słowami kluczowymi, które już znasz są `if`, `for` i `while`, ale one nie wymagały nazwy.
 
