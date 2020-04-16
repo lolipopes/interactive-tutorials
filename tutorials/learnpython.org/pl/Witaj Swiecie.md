@@ -20,7 +20,7 @@ Użyj instrukcji `print` do wypisania tekstu "Witaj Swiecie!"
 
 Tutorial Code
 -------------
-print ("Do widzenia Swiecie!")
+print "Do widzenia Swiecie!"
 
 Expected Output
 ---------------
