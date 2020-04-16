@@ -68,9 +68,9 @@ Tutorial Code
 -------------
 
 dane = ("Jacek", "Darek", 44.4)
-formatowany_napis = "Czesc"
+formatowany_napis = ("Czesc")
 
-print formatowany_napis % dane
+print (formatowany_napis % dane)
 
 Expected Output
 ---------------
