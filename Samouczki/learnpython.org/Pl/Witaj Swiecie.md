@@ -28,4 +28,4 @@ Witaj Swiecie!
 
 Solution
 --------
-print "Witaj Swiecie!"
+print ("Witaj Swiecie!")
