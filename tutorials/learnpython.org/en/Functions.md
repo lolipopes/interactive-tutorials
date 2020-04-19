@@ -2,8 +2,11 @@ Tutorial
 --------
 
 ### What are Functions?
+Functions are parts of the reusable program. They allow us to give a name to an expression block and then run that block using that name anywhere in the program, any number of times.
+Functions are probably the most important part of any major program (in any programming language).
+Functions are defined using the word def. It is followed by a name that identifies the function, followed by a pair of parentheses, which may contain several variable names, followed by a colon. The block of expressions that are part of this function begins below.
+Python uses the concept of a function to group code fragments and then call them from anywhere in the program. To create a named function with your own code, the word def is used, which is the abbreviation for 'define'.
 
-Functions are a convenient way to divide your code into useful blocks, allowing us to order our code, make it more readable, reuse it and save some time. Also functions are a key way to define interfaces so programmers can share their code.
 
 ### How do you write functions in Python?
 
