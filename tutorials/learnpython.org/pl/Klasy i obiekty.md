@@ -1,7 +1,7 @@
 Tutorial
 --------
 
-Obiety są połączeniem zmiennych i funkcji w jedną strukturalną całość. Obiekty biorą swoje zmienne i funkcje z klas. Klasy są podstawowym schematem, według których tworzone są obiekty.
+Obiekty są połączeniem zmiennych i funkcji w jedną strukturalną całość. Obiekty biorą swoje zmienne i funkcje z klas. Klasy są podstawowym schematem, według których tworzone są obiekty.
 
 Poniżej znajduje się bardzo prosty przykład klasy:
 
