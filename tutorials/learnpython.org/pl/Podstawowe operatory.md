@@ -80,3 +80,21 @@ Doskonale!
 
 Solution
 --------
+x = object()
+y = object()
+
+# zmien ten kod
+x_tab = [x]*10
+y_tab = [y]*10
+duza_tab = [x_tab,y_tab]*10
+
+print "x_tab zawiera %d obiektow" % len(x_tab)
+print "y_tab zawiera %d obiektow" % len(y_tab)
+print "duza_tab zawiera %d obiektow" % len(duza_tab)
+
+# sprawdzenie poprawnosci
+if x_tab.count(x) == 10 and y_tab.count(y) == 10:
+    print "Prawie zrobione..."
+if duza_tab.count(x_tab) == 10 and duza_tab.count(y_tab) == 10:
+    print "Doskonale!"
+    
