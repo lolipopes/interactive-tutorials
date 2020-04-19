@@ -100,3 +100,14 @@ Liczba calkowita: 20
 
 Solution
 --------
+# zmien ponizszy kod
+napis = "witaj"
+rzeczywista = 10
+calkowita = 20
+# sprawdzenie kodu
+if napis == "witaj":
+    print("Napis: %s" % napis)
+if isinstance(rzeczywista, float) + rzeczywista == 10.0:
+    print("Liczba rzeczywista: %d" % rzeczywista)
+if isinstance(calkowita, float) + calkowita == 20:
+    print("Liczba calkowita: %d" % calkowita)
