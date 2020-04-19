@@ -95,7 +95,7 @@ def buduj_zdanie(korzysc):
 def nazwij_korzysci_z_funkcji():
     tabela = lista_korzysci()
     for korzysc in tabela:
-        print buduj_zdanie(korzysc)
+        print (buduj_zdanie(korzysc))
 
 nazwij_korzysci_z_funkcji()
 
@@ -103,12 +103,14 @@ nazwij_korzysci_z_funkcji()
 Expected Output
 ---------------
 
-Lepiej zorganizowany kod jest zaleta funkcji!
-Wieksza czytelnosc kodu jest zaleta funkcji!
-Latwiejsze wielokrotne uzycie kodu jest zaleta funkcji!
-Mozliwosc dzielenia sie kodem i laczenia go w calosc przez rozne osoby jest zaleta funkcji!
+test_output_contains("Lepiej zorganizowany kod jest zaleta funkcji!")
+test_output_contains("Wieksza czytelnosc kodu jest zaleta funkcji!")
+test_output_contains("Latwiejsze wielokrotne uzycie kodu jest zaleta funkcji!")
+test_output_contains("Mozliwosc dzielenia sie kodem i laczenia go w calosc przez rozne osoby jest zaleta funkcji!")
+success_msg("Nice work!")
 
 Solution
+-----------
 # Ta funkcja powinna zwracac tablice napisow, ktore wymieniono w punkcie 1.
 def lista_korzysci():
     return tablica
@@ -125,6 +127,6 @@ def buduj_zdanie(korzysc):
 def nazwij_korzysci_z_funkcji():
     tabela = lista_korzysci()
     for korzysc in tabela:
-        print buduj_zdanie(korzysc)
+        print (buduj_zdanie(korzysc))
 
 nazwij_korzysci_z_funkcji()
