@@ -1,7 +1,7 @@
 Tutorial
 --------
 
-Obiety są połączeniem zmiennych i funkcji w jedną strukturalną całość. Obiekty biorą swoje zmienne i funkcje z klas. Klasy są podstawowym schematem, według których tworzone są obiekty.
+Obiekty są połączeniem zmiennych i funkcji w jedną strukturalną całość. Obiekty biorą swoje zmienne i funkcje z klas. Klasy są podstawowym schematem, według których tworzone są obiekty.
 
 Poniżej znajduje się bardzo prosty przykład klasy:
 
@@ -10,7 +10,7 @@ Poniżej znajduje się bardzo prosty przykład klasy:
           def funkcja(self):
                print "To jest wiadomość wewnątrz klasy."
 
-Nieco później wyjaśnimy, dlaczego powinieneś dołączać "self" jako parametr. Aby stworzyć obiekt będący realizacją klasy trzeba wystarczy przypisać nazwie zmiennej wartość wyrażenia `nazwa_klasy()`.
+Nieco później wyjaśnimy, dlaczego powinieneś dołączać "self" jako parametr. Aby stworzyć obiekt będący realizacją klasy wystarczy przypisać nazwie zmiennej wartość wyrażenia `nazwa_klasy()`.
 
 
     class MojaKlasa:
