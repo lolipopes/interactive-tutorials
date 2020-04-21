@@ -1,35 +1,39 @@
-# Welcome
+# Witamy
 
-Welcome to the LearnJavaOnline.org Interactive Java Tutorial.
+Witamy w interaktywnym samouczku Java LearnJavaOnline.org.
 
-Whether you are an experienced programmer or not, this website is intended for everyone who wishes to learn the Java programming language.
+Niezależnie od tego, czy jesteś doświadczonym programistą, czy nie, ta strona jest przeznaczona dla wszystkich, którzy chcą nauczyć się języka programowania Java.
 
-Just click on the chapter you wish to begin from, and follow the instructions. Good luck!
+Po prostu kliknij rozdział, od którego chcesz zacząć, i postępuj zgodnie z instrukcjami. Powodzenia!
 
-### Learn the Basics
+### Naucz się podstaw
 
-- [[Hello, World!]]
-- [[Variables and Types]]
-- [[Conditionals]]
-- [[Arrays]]
-- [[Loops]]
-- [[Functions]]
-- [[Objects]]
-- [[Compiling and Running with Arguments]]
+- [[Witaj Swiecie|Witaj świecie!]]
+- [[Zmienne i typy]]
+- [[Warunkowe]]
+- [[Tablice]]
+- [[Pentle|Pętle]]
+- [[Funkcje]]
+- [[Obiekty]]
+- [[Kompilowanie i uruchamianie z argumentami]]
 
-### Advanced Topics (Under Construction)
+### Tematy zaawansowane (w budowie)
 
-- [[Inheritance]]
-- [[Try and Catch]]
-- [[Abstract Classes]]
-- [[Interfaces]]
-- [[Using Generics]]
-- [[Collections]]
+- [[Dziedziczenie]]
+- [[Sprobuj i zlap|Spróbuj i złap]]
+- [[Klasy abstrakcyjne]]
+- [[Interfejsy]]
+- [[Korzystanie z ogólnych]]
+- [[Kolekcje]]
 - [[Wrappers and Autoboxing]]
-- [[Exceptions]]
-- [[Generic Types]]
+- [[Wyjatki|Wyjątki]]
+- [[Rodzaje ogólne]]
 - [[IO Streams]]
 
-### Contributing Tutorials
+### Wspieranie samouczków
 
-Read more here: [[Contributing Tutorials]]
+Przeczytaj więcej tutaj: [[Poradniki wspomagające]]
+
+
+
+
