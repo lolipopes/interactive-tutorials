@@ -109,6 +109,7 @@ Latwiejsze wielokrotne uzycie kodu jest zaleta funkcji!
 Mozliwosc dzielenia sie kodem i laczenia go w calosc przez rozne osoby jest zaleta funkcji!
 
 Solution
+----------------
 # Ta funkcja powinna zwracac tablice napisow, ktore wymieniono w punkcie 1.
 def lista_korzysci():
     return tablica
