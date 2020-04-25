@@ -61,3 +61,7 @@ Witaj Swiecie
 
 Solution
 --------
+int main(){
+  printf("Witaj Swiecie");
+  return 0;
+}
