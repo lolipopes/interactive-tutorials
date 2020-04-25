@@ -25,7 +25,7 @@ Po nazwie typu trzeba podać nazwę naszej zmiennej. Wszystkie zmienne deklaruje
 
 Do powyższej zmiennej `zmienna` można zapisać liczbę całkowitą nieujemną. Jeśli chcesz wiedzieć ile miejsca w konkretnym komputerze zajmuje dany typ, użyj instrukcji `printf("%d\n", sizeof(nazwa_typu));` Zamiast nazwy typu możesz użyć nazwy zadeklarowanej wcześniej zmiennej.
 
-W C nie ma zmiennych do przechowywania warotości logicznych prawda/fałsz. Używamy do tego liczb całkowitych, gdzie 0 to fałsz, a wartość różna od zera to prawda.
+W C nie ma zmiennych do przechowywania wartości logicznych prawda/fałsz. Używamy do tego liczb całkowitych, gdzie 0 to fałsz, a wartość różna od zera to prawda.
 
 Napisy są przechowywane za pomocą tablic znaków oraz możesz tworzyć swoje własne niby-typy, czyli struktury, ale to wyjaśnimy później.
 
