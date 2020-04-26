@@ -61,3 +61,12 @@ Witaj Swiecie
 
 Solution
 --------
+/*oto przykladowy
+komentarz w programie*/
+/*Uwaga! komentarzy nie mozna zagniezdzac*/
+
+int main(){
+  printf("Witaj Swiecie");
+  return 0;
+}
+
